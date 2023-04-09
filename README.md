@@ -1,6 +1,6 @@
 # Pong Game
 
-This is a classic and simple Pong game developed using Python and the Turtle module.
+This is one of my first game-projects. It is a classic and simple Pong game developed using Python and the Turtle module.
 
 ### Getting Started
 
